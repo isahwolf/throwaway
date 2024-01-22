@@ -4,7 +4,8 @@
 
 ### What is **Git** and **GitHub**?
 * **Git** is a control system that tracks changes in any set of computer files.  
-* **GitHub** is a code hosting platform. It allows others to work together on projects from anywhere.
+* **GitHub** is a code hosting platform.
+  * It allows others to work together on projects from anywhere.
 
 #### How do you anticipate that this tools would help someone working as a developer?
 * It allows others to comment and help when someone is making something and using git bash allows them to clone a repository and modify it.
